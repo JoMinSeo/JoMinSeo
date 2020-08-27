@@ -12,3 +12,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minseocho0309@gmail.com)](mailto:minseocho0309@gmail.com)
 
 </span>
+
+
+[![JoMinSeo's github stats](https://github-readme-stats.vercel.app/api?username=JoMinSeo)](https://github.com/JoMinSeo)
