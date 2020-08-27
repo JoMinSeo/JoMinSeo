@@ -13,10 +13,10 @@
 
 [![JoMinSeo's github stats](https://github-readme-stats.vercel.app/api?username=JoMinSeo)](https://github.com/JoMinSeo)
 
-🎖 I’m currently using ...
--Dart
--Java
--Kotlin
+🎖 I’m currently using ...   
+-Dart   
+-Java   
+-Kotlin   
 
-🔓 private Commit __
--Inpot -> Team project
+🔓 private Commit __   
+-Inpot -> Team project   
