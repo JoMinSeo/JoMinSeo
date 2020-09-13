@@ -19,7 +19,8 @@
 🎖 I’m currently using ...   
 -Dart   
 -Java   
--Kotlin   
+-Kotlin
+-c#
 
 🔓 private Commit __   
 -Inpot -> Team project
