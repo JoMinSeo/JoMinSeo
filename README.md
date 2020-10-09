@@ -13,6 +13,7 @@
 -Java   
 -Kotlin
 -c#
+-JavaScript
 
 🔓 private Commit __   
 -Inpot -> Team project
