@@ -19,7 +19,7 @@
 
 
 
-🔓 private Commit __   
+🔓 my project  
 -Inpot -> Team project  
 -Haru -> planner  
 -AlBab -> School Meals  
