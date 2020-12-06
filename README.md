@@ -1,4 +1,5 @@
 ### I'm Flutter Developer!!!
+##### Daegu Software Meister HighSchool
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=나는%20민서%20&fontSize=50&fontAlignY=35)
 	
@@ -17,8 +18,7 @@
 -c#  
 -JavaScript
 
-
-
+s
 🔓 my project  
 -Inpot -> Team project  
 -Haru -> planner  
