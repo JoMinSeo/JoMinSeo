@@ -12,13 +12,14 @@
 [![JoMinSeo's github stats](https://github-readme-stats.vercel.app/api?username=JoMinSeo)](https://github.com/JoMinSeo)
 
 🎖 I’m currently using ....
+
 -Dart  
 -Java  
 -Kotlin  
 -c#  
 -JavaScript
 
-s
+
 🔓 my project  
 -Inpot -> Team project  
 -Haru -> planner  
