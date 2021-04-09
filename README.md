@@ -1,4 +1,4 @@
-### I'm Flutter Developer!!!
+### I'm Android&Ios Developer
 ##### Daegu Software Meister HighSchool
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20%20&fontSize=50&fontAlignY=35)
@@ -17,7 +17,7 @@
 -Java  
 -Kotlin  
 -c#  
--JavaScript
+-Swift 
 
 
 🔓 my project  
@@ -25,4 +25,4 @@
 -Haru -> planner  
 -AlBab -> School Meals  
 -binary -> STAC+ !!!!  
--Ant -> stock invest application
+-Ant -> Stock invest application
