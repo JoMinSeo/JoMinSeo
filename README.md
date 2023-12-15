@@ -1,5 +1,4 @@
-### I'm Android & Flutter Developer
-##### Daegu Software Meister HighSchool
+### Flutter Developer
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Flutter개발자입니다%20%20&fontSize=50&fontAlignY=35) -->
 	
@@ -10,18 +9,3 @@
 
 	
 [![JoMinSeo's github stats](https://github-readme-stats.vercel.app/api?username=JoMinSeo)](https://github.com/JoMinSeo)
-
-🎖 I’m currently using ....
-
--Dart  
--Java  
--Kotlin  
--Swift 
-
-
-🔓 my project  
--Inpot -> Team project  
--Haru -> planner  
--AlBab -> School Meals  
--binary -> STAC+ !!!!  
--Ant -> Stock invest application
